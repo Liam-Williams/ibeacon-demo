@@ -1,4 +1,4 @@
-# iBeacon-demo
+# iBeacon Demo
 iBeacon demo project for Lighthouse Labs Lecture
 
 ## Remember
